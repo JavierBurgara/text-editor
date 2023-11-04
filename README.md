@@ -3,6 +3,7 @@
 
 [![nodejs][node.js]][nodejs-url]
 [![expressjs][express.js]][express-url]
+[![html][html-url]]
 
 </div>
 
