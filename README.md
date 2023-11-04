@@ -1,6 +1,6 @@
 # Text Editor
 
-[![License](https://img.shields.io/github/license/JavierBurgara/text-editor.svg?style=for-the-badge)]
+
 [![nodejs][node.js]][nodejs-url]
 [![expressjs][express.js]][express-url]
 
