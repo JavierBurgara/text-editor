@@ -14,7 +14,7 @@ https://pure-harbor-45105-129f1f2b6346.herokuapp.com/
 
 Progressive Web Applications (PWA) Challenge: Text Editor
 
--   The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+-   The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. Upon launching your terminal, kindly execute the 'npm i' command to install the requisite dependencies. Subsequently, run the 'npm run build' command, which will generate a 'dist' folder essential for running the application. Concluding this setup, the final step is to initiate the application by executing 'npm start,' which launches JEST and provides a link to your local web browser, as indicated within your terminal interface.
 
 -   Cloned from https://github.com/coding-boot-camp/cautious-meme
 
@@ -22,7 +22,7 @@ Progressive Web Applications (PWA) Challenge: Text Editor
 
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Tests](#tests)
+-   [Testing](#testing)
 -   [Contributing](#contributing)
 -   [License](#license)
 -   [Contact](#contact)
@@ -63,6 +63,8 @@ Progressive Web Applications (PWA) Challenge: Text Editor
 
 3. Go to `http://localhost:3000/` in your browser
 
+## Testing
+![Alt text](image-2.png)![Alt text](image-3.png)
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
