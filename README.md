@@ -55,13 +55,22 @@ Progressive Web Applications (PWA) Challenge: Text Editor
     cd path/to/text-editor
     ```
 
-2. Run `npm start:dev`
+2. Run `npm i`
 
     ```sh
-    npm start:dev
+    npm i
     ```
+3. Run `npm run build`
 
-3. Go to `http://localhost:3000/` in your browser
+    ```sh
+    npm run build
+    ```
+4. Run `npm run start`
+
+    ```sh
+    npm run start
+    ```
+5. Go to `http://localhost:3000/` in your browser
 
 ## Testing
 ![Alt text](image-2.png)![Alt text](image-3.png)
